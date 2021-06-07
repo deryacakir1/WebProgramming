@@ -118,7 +118,7 @@ main{
     padding:10px;
 }
 .icerik{
-    width: 48%;
+    width: 47%;
     height: auto;
     display: inline-block;
     margin-right: 15px;
@@ -331,4 +331,8 @@ h2{
     letter-spacing: 1.5px;
     text-align: center;
     font-size: 16px;
+}
+
+a:hover{
+    color:rgb(41, 180, 204);
 }
